@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Équipe Alpha (Core)",
+    "description": "Équipe principale en charge du développement du produit.",
+    "leader": "admin@example.com",
+    "members": [
+      "admin@example.com",
+      "pm@example.com",
+      "dev1@example.com"
+    ]
+  },
+  {
+    "name": "Équipe Design",
+    "description": "Équipe responsable de l'expérience utilisateur et de l'interface.",
+    "leader": "ux@example.com",
+    "members": ["ux@example.com", "jane.smith@example.com"]
+  }
+]

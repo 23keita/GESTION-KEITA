@@ -1,0 +1,33 @@
+[
+  {
+    "username": "Admin User",
+    "email": "admin@example.com",
+    "password": "password123",
+    "role": "admin"
+  },
+  {
+    "username": "Project Manager",
+    "email": "pm@example.com",
+    "password": "password123"
+  },
+  {
+    "username": "Developer One",
+    "email": "dev1@example.com",
+    "password": "password123"
+  },
+  {
+    "username": "UX Designer",
+    "email": "ux@example.com",
+    "password": "password123"
+  },
+  {
+    "username": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "password": "password123"
+  },
+  {
+    "username": "QA Tester",
+    "email": "qa@example.com",
+    "password": "password123"
+  }
+]

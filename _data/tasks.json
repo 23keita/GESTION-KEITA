@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Mettre en place l'authentification JWT",
+    "description": "Utiliser JWT pour sécuriser tous les endpoints de l'API.",
+    "status": "terminée",
+    "priority": "élevée",
+    "assignedTo": "dev1@example.com",
+    "assignedBy": "pm@example.com",
+    "team": "Équipe Alpha (Core)"
+  },
+  {
+    "title": "Créer les maquettes de la page d'accueil",
+    "description": "Maquettes haute-fidélité sur Figma, incluant les versions mobile et desktop.",
+    "status": "en_cours",
+    "priority": "moyenne",
+    "assignedTo": "ux@example.com",
+    "assignedBy": "pm@example.com"
+  },
+  {
+    "title": "Rédiger les tests pour l'API Auth",
+    "description": "Assurer une couverture de tests d'au moins 95% pour les routes d'authentification.",
+    "status": "à_faire",
+    "priority": "moyenne",
+    "assignedTo": "qa@example.com",
+    "assignedBy": "dev1@example.com",
+    "team": "Équipe Alpha (Core)"
+  },
+  {
+    "title": "Déployer la v1 sur Render",
+    "description": "Préparer les scripts de déploiement et les variables d'environnement pour la production.",
+    "status": "à_faire",
+    "priority": "élevée",
+    "assignedTo": "admin@example.com",
+    "assignedBy": "admin@example.com",
+    "team": "Équipe Alpha (Core)"
+  }
+]
